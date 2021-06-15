@@ -1,4 +1,4 @@
-# 08-practice-project
+# practice-project-userName-Age
 
 This is a simple practice project aims to take a user name and age 
 
